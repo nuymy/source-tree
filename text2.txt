@@ -1,3 +1,5 @@
 hello from text2
 
 xin chào
+
+thực hiện code text2
